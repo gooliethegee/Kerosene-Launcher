@@ -2,9 +2,9 @@
 
 Copyright (c) 2025 Kerosene Launcher
 
-All Rights Reserved.
+**All Rights Reserved.**
 
-This repository, including all source code, assets, scripts, icons, configurations, and documentation (“the Software”), is the exclusive property of the author, Nino Elloso. Unauthorized access, copying, modification, distribution, or use of the Software, in whole or in part, is strictly prohibited without the prior written consent of the author.
+This repository, including all source code, assets, scripts, icons, configurations, and documentation (“the Software”), is the exclusive property of the author, Nino Elloso. Unauthorized access, copying, modification, distribution, or use of the Software, in whole or in part, is strictly prohibited without prior written consent.
 
 By accessing this repository, you acknowledge and agree to the following terms:
 
