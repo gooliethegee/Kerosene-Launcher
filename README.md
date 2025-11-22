@@ -32,4 +32,6 @@ By accessing this repository, you acknowledge and agree to the following terms:
 
 For permission requests, licensing inquiries, or other communications regarding the Software, please contact the author directly.
 
+Via:kerosenelauncher@gmail.com
+
 ---
