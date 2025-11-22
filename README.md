@@ -1,6 +1,6 @@
 # Kerosene-Launcher
 
-Copyright (c) 2025 Nino Elloso
+Copyright (c) 2025 Kerosene Launcher
 
 All Rights Reserved.
 
